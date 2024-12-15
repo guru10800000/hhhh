@@ -42,5 +42,8 @@ The dataset 'media.csv' comprises records related to various media items, with a
 4. **Comparative Analysis by Language/Type**: Conduct analyses comparing the mean and median ratings across different languages and types of media to see where disparities exist.
 
 In summary, the 'media.csv' dataset reveals a rich tapestry of media representation, highlighting trends in ratings and the influence of language and authorship. Further analysis holds the potential to deepen insights and inform media curation strategies.
-
+![correlation_heatmap.png](correlation_heatmap.png)
+![overall_distribution.png](overall_distribution.png)
+![quality_distribution.png](quality_distribution.png)
+![repeatability_distribution.png](repeatability_distribution.png)
 
